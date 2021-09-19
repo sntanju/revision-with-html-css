@@ -1,0 +1,48 @@
+header {
+    margin-top: 10px;
+}
+.web-header {
+    text-align: center;
+    color: aliceblue;
+    background-color: darkslategray;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.nav-style {
+    background-color: lightblue;
+    color: teal;
+    border-radius: 5px;
+    padding: 15px;
+}
+.food-section {
+    margin: 10px;
+    background-color:papayawhip;
+    padding: 10px;
+}
+.food-section-header {
+    background-color:cadetblue;
+    text-align: center;
+    color:palegreen;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.img-width {
+    height: 317px;
+    border-radius: 20px;
+}
+.button-style {
+    background-color: powderblue;
+    color: purple;
+    border: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
